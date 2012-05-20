@@ -210,4 +210,3 @@ nnoremap <leader>ft Vatzf
 
 " map f4 to run jslint
 nmap <F4> :w<CR>:make<CR>:cw<CR>
-"<CR>
