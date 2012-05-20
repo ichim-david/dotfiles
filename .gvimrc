@@ -1,9 +1,6 @@
 " .vimrc File
-" Maintained by: Jeffrey Way
-" jeffrey@jeffrey-way.com
-" http://net.tutsplus.com
-"
-
+" with lots of options from Jeffrey Way's vimrc
+" 
 " set guifont=Monaco\\\\ 11
 " set guifont=Droid\\\\ Sans\\\\ Mono\\\\ 12
 " set guifont=DejaVuSansMono 12
